@@ -16,6 +16,10 @@ body{
 a{
     color: #fff;
     text-decoration: none;
+}a:hover{
+    transform: translateY(-3px) scale(1.05);
+    box-shadow: 0 5px 0px rgba(0, 0, 0, .4);
+    filter: none;
 }
 
 ul{
